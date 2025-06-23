@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Project Nafinec Git\\D_S_A\\Array\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA8688E-0B05-4823-B464-8A46C8CF121F}|Array.Intro\\Array.Intro.csproj|h:\\project nafinec git\\d_s_a\\array\\array\\array.intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA8688E-0B05-4823-B464-8A46C8CF121F}|Array.Intro\\Array.Intro.csproj|solutionrelative:array.intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Project Nafinec Git\\D_S_A\\Array\\Array\\Array.Intro\\Program.cs",
+              "RelativeDocumentMoniker": "Array.Intro\\Program.cs",
+              "ToolTip": "H:\\Project Nafinec Git\\D_S_A\\Array\\Array\\Array.Intro\\Program.cs",
+              "RelativeToolTip": "Array.Intro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T06:15:40.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
