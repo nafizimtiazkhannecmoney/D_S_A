@@ -173,4 +173,39 @@ for(int i = 0; i< kid.Length; i++)
 }
 
 
+// jagged array for 3 pet types (dogs, cats, birds). Dogs have 4 animals, cats have 2,
+// and birds have 3. Fill it with treat counts and print them
 
+int[][] petTreats = new int[3][];
+
+petTreats[0] = new int[4]; // Dogs have 4 animals
+petTreats[1] = new int[2]; // Cats have 2 animals
+petTreats[2] = new int[3]; // Birds have 3 animals
+
+petTreats[0][0] = 5; // Dog 1 has 5 treats
+petTreats[0][1] = 3; // Dog 2 has 3 treats
+petTreats[0][2] = 4; // Dog 3 has 4 treats
+petTreats[0][3] = 2; // Dog 4 has 2 treats
+
+petTreats[1][0] = 1; // Cat 1 has 1 treat
+petTreats[1][1] = 2; // Cat 2 has 2 treat
+
+petTreats[2][0] = 2; // Bird 1 has 2 treat
+petTreats[2][1] = 1; // Bird 2 has 1 treat
+petTreats[2][2] = 4; // Bird 3 has 4 treat
+
+Console.WriteLine("-----------------------");
+string[] petTypes = { "Dogs ", "Cats ", "Birds" };
+
+for (int i = 0; i< petTreats.Length; i++) 
+{
+    Console.Write($"{petTypes[i]} : |");
+    for(int j = 0; j< petTreats[i].Length; j++)
+    {
+        Console.Write(petTreats[i][j] + "|");
+    }
+    Console.WriteLine();
+}
+
+//school has 3 clubs (Art, Music, Sports), and each club has a different number of members.
+//You’re tracking how many points each member earned in a competition
