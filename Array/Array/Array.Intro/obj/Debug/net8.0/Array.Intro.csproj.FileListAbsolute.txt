@@ -1,0 +1,15 @@
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\bin\Debug\net8.0\Array.Intro.exe
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\bin\Debug\net8.0\Array.Intro.deps.json
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\bin\Debug\net8.0\Array.Intro.runtimeconfig.json
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\bin\Debug\net8.0\Array.Intro.dll
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\bin\Debug\net8.0\Array.Intro.pdb
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\Array.Intro.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\Array.Intro.AssemblyInfoInputs.cache
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\Array.Intro.AssemblyInfo.cs
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\Array.Intro.csproj.CoreCompileInputs.cache
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\Array.Intro.sourcelink.json
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\Array.Intro.dll
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\refint\Array.Intro.dll
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\Array.Intro.pdb
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\Array.Intro.genruntimeconfig.cache
+H:\Project Nafinec Git\D_S_A\Array\Array\Array.Intro\obj\Debug\net8.0\ref\Array.Intro.dll
